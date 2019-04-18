@@ -1,3 +1,4 @@
+
 <?php
 /**
  * Storefront template functions.
